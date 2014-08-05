@@ -13,7 +13,6 @@ function Update()
 		var hit : RaycastHit;
 		if(Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), hit))
 		{
-			hit.transform.collider.rigidbody.AddForce(Vector3.forward);
 			distance = hit.distance;
 			if (distance < maxDistance)
 			{
