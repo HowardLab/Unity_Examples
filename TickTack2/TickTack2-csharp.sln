@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{0234D7CD-E1B1-58ED-0CF1-84C3EA8E6B58}") = "ticktack", "Assembly-CSharp-firstpass-vs.csproj", "{C4D60232-D583-DA7D-EEE3-D7259B92A403}"
+Project("{4B74B618-8248-C807-8526-3F9293949E88}") = "TickTack2", "Assembly-CSharp-firstpass-vs.csproj", "{34CCCF6D-A0B2-32FF-C0FF-CB47933E2F17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C4D60232-D583-DA7D-EEE3-D7259B92A403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4D60232-D583-DA7D-EEE3-D7259B92A403}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4D60232-D583-DA7D-EEE3-D7259B92A403}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4D60232-D583-DA7D-EEE3-D7259B92A403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34CCCF6D-A0B2-32FF-C0FF-CB47933E2F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CCCF6D-A0B2-32FF-C0FF-CB47933E2F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CCCF6D-A0B2-32FF-C0FF-CB47933E2F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CCCF6D-A0B2-32FF-C0FF-CB47933E2F17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
